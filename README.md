@@ -129,10 +129,10 @@ If you want to be a reliability engineer or operations engineer, study more from
 - [Coding Question Practice](#coding-question-practice)
 - [Coding exercises/challenges](#coding-exerciseschallenges)
 - [Once you're closer to the interview](#once-youre-closer-to-the-interview)
-- [Your Resume](#your-resume)
-- [Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes)
-- [Have questions for the interviewer](#have-questions-for-the-interviewer)
-- [Once You've Got The Job](#once-youve-got-the-job)
+- [x] [Your Resume](#your-resume)
+- [x] [Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes)
+- [x] [Have questions for the interviewer](#have-questions-for-the-interviewer)
+- [x] [Once You've Got The Job](#once-youve-got-the-job)
 
 ---------------- Everything below this point is optional ----------------
 
@@ -1390,11 +1390,11 @@ You're never really done.
 
     *****************************************************************************************************
     *****************************************************************************************************
-
+    
     Everything below this point is optional.
     By studying these, you'll get greater exposure to more CS concepts, and will be better prepared for
     any software engineering job. You'll be a much more well-rounded software engineer.
-
+    
     *****************************************************************************************************
     *****************************************************************************************************
 
